@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#tudo{
+	width: 760px;
+	margin: 0 auto; /* centraliza o conteúdo do site */
+	background: #999 url(background.png) repeat-y;
+}
+
+#topo{
+	height: 90px;
+	background: #ffd18b;
+}
+
+h1{
+	margin-top: 0; /* Retira a marge superior */
+}
+
+#principal{
+	width: 530px;
+	float: right;
+	background: #d1ecf6;
+	padding: 0 15px;
+}
+
+#navegacao{
+	width: 150px;
+	float: left;
+	background: #a2daec;
+	padding: 0 15px
+}
+
+#rodape{
+	height:25px;
+	background: #ffecd1;
+	clear:both;
+}
